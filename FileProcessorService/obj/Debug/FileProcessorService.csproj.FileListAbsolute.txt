@@ -1,0 +1,5 @@
+D:\mentoring\window servises\Samples\FileProcessorService\bin\Debug\FileProcessorService.exe.config
+D:\mentoring\window servises\Samples\FileProcessorService\bin\Debug\FileProcessorService.exe
+D:\mentoring\window servises\Samples\FileProcessorService\bin\Debug\FileProcessorService.pdb
+D:\mentoring\window servises\Samples\FileProcessorService\obj\Debug\FileProcessorService.exe
+D:\mentoring\window servises\Samples\FileProcessorService\obj\Debug\FileProcessorService.pdb
